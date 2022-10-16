@@ -1,0 +1,28 @@
+{
+	"sites": [
+				{"site_name": "Compiègne",
+				 "site_address": "56 route de Choisy au Bac, BP 90509 – 60205 Compiègne",
+				 "product_lines": [
+									{"line_id": "lig_1", "nb_products": "60"},
+									{"line_id": "lig_2", "nb_products": "120"},
+									{"line_id": "lig_3", "nb_products": "240"}
+								  ]
+				},
+				{"site_name": "Vertolaye",
+				 "site_address": "4 La Paterie, 63480 Vertolaye",
+				 "product_lines": [
+									{"line_id": "lig_1", "nb_products": "30"},
+									{"line_id": "lig_2", "nb_products": "60"},
+									{"line_id": "lig_3", "nb_products": "120"}
+								  ]
+				},
+				{"site_name": "Sisteron",
+				 "site_address": "45 chemin de Météline, 04200 Sisteron",
+				 "product_lines": [
+									{"line_id": "lig_1", "nb_products": "15"},
+									{"line_id": "lig_2", "nb_products": "30"},
+									{"line_id": "lig_3", "nb_products": "60"}
+								  ]
+				}
+			 ]
+}
